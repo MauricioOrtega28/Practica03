@@ -1,6 +1,7 @@
 @model Solicitud
 @{
-    ViewData["Title"] = "Registro de Usuarios";
+    Layout = "_Plantilla";
+    
     List<SelectListItem> items = (List<SelectListItem>)ViewBag.items;
 }
 <h1>@ViewData["Title"]</h1>

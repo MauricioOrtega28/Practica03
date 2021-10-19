@@ -47,6 +47,18 @@ namespace Practica03.Controllers
                 _context.SaveChanges();
                 return RedirectToAction("Listar");
             }
+            
+            var Categorias = _context.DataCategorias.ToList();
+            
+             List<SelectListItem> items = Categorias.ConvertAll(d => {
+                return new SelectListItem(){
+                    Text = d.Nombre,
+                    Value = d.Id.ToString(),
+                    Selected = false
+                };
+            });
+          
+           ViewBag.items = items;
 
             return View(solicitud);
         }

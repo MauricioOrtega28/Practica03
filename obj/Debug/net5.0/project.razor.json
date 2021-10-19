@@ -15619,6 +15619,11 @@
   "RootNamespace": "Practica03",
   "Documents": [
     {
+      "FilePath": "f:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\Practica03\\Views\\Solicitud\\Registro.cshtml",
+      "TargetPath": "Views\\Solicitud\\Registro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\Practica03\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -15639,6 +15644,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "f:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\Practica03\\Views\\Shared\\_Plantilla.cshtml",
+      "TargetPath": "Views\\Shared\\_Plantilla.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "f:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\Practica03\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -15646,6 +15656,11 @@
     {
       "FilePath": "f:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\Practica03\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\Practica03\\Views\\Solicitud\\Listar.cshtml",
+      "TargetPath": "Views\\Solicitud\\Listar.cshtml",
       "FileKind": "mvc"
     },
     {
